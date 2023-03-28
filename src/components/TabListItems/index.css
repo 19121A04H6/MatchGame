@@ -1,0 +1,18 @@
+.tab-item {
+  list-style-type: none;
+}
+.tab-button {
+  background-color: transparent;
+  border: 0px solid;
+  width: 200px;
+}
+.display-text {
+  color: #ffffff;
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.activeClassname {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}
